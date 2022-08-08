@@ -3,7 +3,6 @@ Documentation    Teste de API Exercicio 2
 
 Library    Browser
 
-
 ***Test Cases***
 Exercicio 2
     New Browser    chromium                     False

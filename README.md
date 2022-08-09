@@ -26,7 +26,7 @@ Comandos:  rfbrowser init
 ### Executar o projeto 
 
 ````
-robot -d ./logs Exercicio2.robot
+robot -d ./logs test/Exercicio2.robot
 
 ````
 
